@@ -1,3 +1,4 @@
+
       <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
       <plist version="1.0">
         <dict>
@@ -18,7 +19,7 @@
           <key>needs-shine</key>
           <false/>
           <key>url</key>
-          <string>http://ovqsyejql.bkt.clouddn.com/IPA-mojieAppIconBig.png</string>
+          <string>https://raw.githubusercontent.com/zhangjunjiecq/IPAPool/master/2/2111/1.0/tmp.png</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -26,7 +27,7 @@
           <key>needs-shine</key>
           <false/>
           <key>url</key>
-          <string>http://ovqsyejql.bkt.clouddn.com/IPA-mojieAppIconBig.png</string>
+          <string>https://raw.githubusercontent.com/zhangjunjiecq/IPAPool/master/2/2111/1.0/tmp.png</string>
         </dict>
         </array>
           <key>metadata</key>
